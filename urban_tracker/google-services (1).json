@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119575680261",
+    "project_id": "urban-tracker-e8a9f",
+    "storage_bucket": "urban-tracker-e8a9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119575680261:android:e60dd99a67dbd59a53d36c",
+        "android_client_info": {
+          "package_name": "com.company.urban_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119575680261-lis8f0uh3f6fn4ltsgkn9tpopi4kg3cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.urban_tracker",
+            "certificate_hash": "5299ec8b95bc7928c13927ddaf584efb8477a6ad"
+          }
+        },
+        {
+          "client_id": "119575680261-oht68sccqvm5ej0coh96uutbf35c23n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDva1oK6XYzCEloV2D3pj1sqP2-odD6STU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119575680261-oht68sccqvm5ej0coh96uutbf35c23n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
